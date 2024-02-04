@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak Arslan</h1>
 <h3 align="center">Full-time tech writer, part-time software learner, timeless MIS student.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=burakarslan0110&label=Hits&color=0e75b6&style=flat" alt="burakarslan0110" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakarslan0110&label=Hits&color=0e75b6&style=flat" alt="burakarslan0110" /> </p>
 
 🌱 I’m currently learning **C# and Oracle PL/SQL**
 
