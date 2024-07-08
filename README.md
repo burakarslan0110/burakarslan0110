@@ -10,7 +10,7 @@
 
 📝 I regularly write articles on [Technopat](https://www.technopat.net/author/burak-arslan/)
 
-🎯 My ultimate end goal **to be a System Administrator**
+🎯 My ultimate end goal **to be a Database Administrator**
 
 📫 How to reach me **burakarslan0110@gmail.com**
 
