@@ -8,7 +8,7 @@
 
 👨‍💻 I love analysing and working on the algorithms of software projects
 
-📝 I regularly write articles on [Technopat](https://www.technopat.net/author/burak-arslan/)
+📝 I regularly write articles on [Technopat](https://www.technopat.net/author/burak-arslan/) and [HUAWEI Developers Medium](https://medium.com/@burakarslan0110)
 
 🎯 My ultimate end goal **to be a Database Administrator**
 
@@ -20,13 +20,13 @@
 
 📰 [NTLite ile Windows 10 Düzenleme Rehberi](https://www.technopat.net/2023/07/24/ntlite-ile-windows-10-duzenleme-rehberi)
 
-📰 [Flash Player Neden Kapandı?](https://www.technopat.net/2022/04/28/adobe-flash-player-ne-oldu/)
+📰 [Tabloları Optimize Etme Sanatı: Veri Tabanı Normalizasyonu](https://medium.com/huawei-developers-tr/veritabani-normalizasyonu-nedir-eb4da5f26e79)
 
-📰 [iPod: Müzik Dünyasını Değiştiren Gücün Son 21 Yılı](https://www.technopat.net/2022/12/27/ipod-muzik-dunyasini-degistiren-gucun-son-21-yili/)
+📰 [Dijital Dünyanın Yeni Altyapısı: Bulut Bilişim Nedir?](https://medium.com/@burakarslan0110/bulut-bilisim-nedir-8337e346ac51)
 
-📰 [Flickr’a Ne Oldu?](https://www.technopat.net/2022/01/30/flickr-ne-oldu/)
+📰 [Microsoft SQL Server’daki Veri Tabanı Azure SQL Database’e Nasıl Taşınır?](https://medium.com/@burakarslan0110/micorosft-sql-serverdaki-veri-taban%C4%B1-azure-sql-database-e-nas%C4%B1l-ta%C5%9F%C4%B1n%C4%B1r-8ea9620c3f80)
 
-📰 [BlackBerry Telefonlara Ne Oldu?](https://www.technopat.net/2023/04/30/blackberry-telefonlara-ne-oldu/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
