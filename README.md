@@ -24,8 +24,6 @@
 
 📰 [Dijital Dünyanın Yeni Altyapısı: Bulut Bilişim Nedir?](https://medium.com/@burakarslan0110/bulut-bilisim-nedir-8337e346ac51)
 
-📰 [Microsoft SQL Server’daki Veri Tabanı Azure SQL Database’e Nasıl Taşınır?](https://medium.com/@burakarslan0110/micorosft-sql-serverdaki-veri-taban%C4%B1-azure-sql-database-e-nas%C4%B1l-ta%C5%9F%C4%B1n%C4%B1r-8ea9620c3f80)
-
 
 <!-- BLOG-POST-LIST:END -->
 
