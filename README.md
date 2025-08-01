@@ -10,7 +10,7 @@
 
 📝 I regularly write articles on [Technopat](https://www.technopat.net/author/burak-arslan/) and [HUAWEI Developers Medium](https://medium.com/@burakarslan0110)
 
-🎯 My ultimate end goal **to be a Technical Architect)**
+🎯 My ultimate end goal **to be a Technical Architect**
 
 📫 How to reach me **burakarslan0110@outlook.com**
 
