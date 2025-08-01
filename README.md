@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=burakarslan0110&label=Hits&color=0e75b6&style=flat" alt="burakarslan0110" /> </p>
 
-🌱 I’m currently learning **.NET Core, RabbitMQ and Redis**
+🌱 I’m currently learning **.NET Core, RabbitMQ, Redis and Kubernetes**
 
 👨‍💻 I love analysing and working on the algorithms of software projects
 
