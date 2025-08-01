@@ -4,26 +4,29 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=burakarslan0110&label=Hits&color=0e75b6&style=flat" alt="burakarslan0110" /> </p>
 
-🌱 I’m currently learning **C# and Oracle PL/SQL**
+🌱 I’m currently learning **.NET Core, RabbitMQ and Redis**
 
 👨‍💻 I love analysing and working on the algorithms of software projects
 
 📝 I regularly write articles on [Technopat](https://www.technopat.net/author/burak-arslan/) and [HUAWEI Developers Medium](https://medium.com/@burakarslan0110)
 
-🎯 My ultimate end goal **to be a Database Administrator**
+🎯 My ultimate end goal **to be a Technical Architect)**
 
-📫 How to reach me **burakarslan0110@gmail.com**
+📫 How to reach me **burakarslan0110@outlook.com**
 
 ### My Favourite Blog Posts
 <!-- BLOG-POST-LIST:START -->
-📰 [Çok Çekirdekli İşlemcilerin Tarihçesi](https://www.technopat.net/2022/02/28/cok-cekirdekli-islemcilerin-tarihcesi/)
+📰 [Yazılım Geliştiriciler için Vercel Alternatifi En İyi Deployment Çözümü: Coolify](https://medium.com/huawei-developers-tr/yazilim-gelistiriciler-icin-vercel-alternatifi-en-iyi-deployment-cozumu-coolify-8057a60dcfea)
 
-📰 [NTLite ile Windows 10 Düzenleme Rehberi](https://www.technopat.net/2023/07/24/ntlite-ile-windows-10-duzenleme-rehberi)
+📰 [GitHub Actions Nedir ve Yazılım Süreçlerini Nasıl Otomatikleştirir?](https://medium.com/huawei-developers-tr/yazilim-gelistiriciler-icin-vercel-alternatifi-en-iyi-deployment-cozumu-coolify-8057a60dcfea)
 
-📰 [Tabloları Optimize Etme Sanatı: Veri Tabanı Normalizasyonu](https://medium.com/huawei-developers-tr/veritabani-normalizasyonu-nedir-eb4da5f26e79)
+📰 [İlişkisel ve İlişkisel Olmayan Veritabanı Nedir, Farkları Nelerdir?](https://www.technopat.net/2024/08/30/iliskisel-ve-iliskisel-olmayan-veritabani-nedir-farklari-nelerdir/)
 
 📰 [Dijital Dünyanın Yeni Altyapısı: Bulut Bilişim Nedir?](https://medium.com/@burakarslan0110/bulut-bilisim-nedir-8337e346ac51)
 
+📰 [SAP Developer Edition Nasıl Kurulur?](https://www.technopat.net/2025/03/27/sap-developer-edition-nasil-kurulur/)
+
+📰 [Çok Çekirdekli İşlemcilerin Tarihçesi](https://www.technopat.net/2022/02/28/cok-cekirdekli-islemcilerin-tarihcesi/)
 
 <!-- BLOG-POST-LIST:END -->
 
